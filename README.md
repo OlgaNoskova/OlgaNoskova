@@ -27,14 +27,14 @@ I'm an engineer from Russia.
 
 - I love snowboarding, walking and traveling.
 
-- How to reach me: :mailbox:[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat)](https://t.me/olgadream_2204)
+- How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat)](https://t.me/olgadream_2204)
   
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://smartshop124.ru/wp-content/uploads/7/4/1/741f077b3e37e172d7b986e2d2a47528.jpeg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 
 
 
