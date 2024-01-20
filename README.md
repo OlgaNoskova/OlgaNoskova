@@ -31,7 +31,7 @@ I'm an engineer from Russia.
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://smartshop124.ru/wp-content/uploads/7/4/1/741f077b3e37e172d7b986e2d2a47528.jpeg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
